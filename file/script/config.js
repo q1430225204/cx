@@ -1,0 +1,1 @@
+var DTPath = "https://wx.bjp.sc/";var SKPath = "https://wx.bjp.sc/skin/default/";var EXPath = "http://wx.bjp.sc/extend/";var CKDomain = "";var CKPath = "/";var CKPrex = "DZr_";
